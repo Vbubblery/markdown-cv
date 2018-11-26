@@ -1,14 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juncheng's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juncheng ZHOU
+Computer Science, Data Science.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="admin@4pro.me">admin@4pro.me</a>
+| <a href="zhoujuncheng0116@gmail.com">zhoujuncheng0116@gmail.com</a>
 </div>
+| <a href="https://blog.4pro.me">my Blog</a>
 
 
 ## Currently
