@@ -8,13 +8,13 @@ Computer Science, Data Science.
 <div id="webaddress">
 <a href="admin@4pro.me">admin@4pro.me</a>
 | <a href="zhoujuncheng0116@gmail.com">zhoujuncheng0116@gmail.com</a>
+| <a href="https://blog.4pro.me">My Blog</a>
 </div>
-| <a href="https://blog.4pro.me">my Blog</a>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Complete my internship and my education. Looking for a Job now... (Develop my own site)
 
 ### Specialized in
 
