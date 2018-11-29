@@ -18,75 +18,72 @@ Complete my internship and my education. Looking for a Job now... (Develop my ow
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Web Developpment, Data Mining, Machine Learning
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Full-Stack, Deep Learning, Reinforcement Learning, Natural Language Processing, Astrophysics, Quantum mechanics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011 - 2015`
+__Hebei University of Technology, Tianjin, China.__
+__SUPINFO, Tianjin, China.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Computer Science (Sino-French cooperation)
 
-- Sizar
+`2016.09 - 2017.06`
+__Université Paris-Sud, Paris, France__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Informatique
 
-- Fellow
+`2017.09 - 2018.10`
+__Télécom ParisTech, Paris, France__
 
+- Data & Knowledge
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2012,2013,2014`
+Student, *Excellent student*, Tianjin, China
 
 
-
-## Publications
+## Project
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Github
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+[GITHUB](https://github.com/Vbubblery)
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2014.04 - 2014.06`
+__Full Stack Developer__, Tianjin, China
 
-- Warden
-- Minted coins
+- Internship
+- web development
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015.04 - 2015.06`
+__App Developer__, Tianjin, China
 
+- Internship
+- IOS (Objective-C) and Android (Java) development
+
+`2018.04 - 2018.10`
+__Data Science__, Paris
+
+- Internship
+- Recommendation System
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2018 -->
 
 
