@@ -14,7 +14,8 @@ Computer Science, Data Science.
 
 ## Currently
 
-Complete my internship and my education. Looking for a Job now... (Develop my own site)
+- Complete my internship and my education. Looking for a Job now... 
+- Develop my own site
 
 ### Specialized in
 
